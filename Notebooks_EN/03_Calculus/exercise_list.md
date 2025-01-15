@@ -169,6 +169,7 @@ evaluate the integral from 0 to 𝜋:
 [x^3/3]=π^3/3-0^3/3=π^3/3
  so integral= π^3/3
  
+![Screenshot 2025-01-15 094758](https://github.com/user-attachments/assets/e7327958-a4bf-4df0-806c-b2c3ec884110)
 
 
 
