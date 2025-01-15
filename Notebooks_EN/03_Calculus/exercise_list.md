@@ -128,48 +128,76 @@ and visualize functions in a single Geogebra notebook.
    - $f(x)=2x+1$
    - $g(x)=x^2$
 
-     .∫ 
-0
-π
-​
- (2x+1)dx (first solve this integral)
-     ∫(2x+1)dx=x
+## Problem: Calculate Integrals Over the Interval $[0, \pi]$
 
-     the antiderivative of 2𝑥+1 is: x^2+x
+We are tasked with calculating the integrals of the following functions over the interval $[0, \pi]$:
 
-   [x^2 +x] =(𝜋^2+π)−(0^2+0)=π^2+π
- 
- . the integral of 
-𝑓(𝑥)=2𝑥+1 over [0,𝜋] is: 𝜋^2+𝜋
-  
-  2. For 𝑔(𝑥)=𝑥^2 :
-The integral of 𝑔(𝑥) over the interval [0,𝜋] is:
+1. $ f(x) = 2x + 1 $
+2. $ g(x) = x^2 $
 
-∫
-0
-𝜋
-𝑥
-2
- 
-𝑑
-𝑥
-∫ 
-0
-π
-​
- x 
-2dx
-  ∫x 
-2
- dx= 
-3
-x 
-3
- 
-​
-evaluate the integral from 0 to 𝜋:
-[x^3/3]=π^3/3-0^3/3=π^3/3
- so integral= π^3/3
+### 1. Integral of $ f(x) = 2x + 1 $:
+
+We need to compute the integral:
+$$
+\int_0^\pi (2x + 1) \, dx
+$$
+
+**Step-by-step solution**:
+- Break the integral into two parts:
+$$
+\int_0^\pi (2x + 1) \, dx = \int_0^\pi 2x \, dx + \int_0^\pi 1 \, dx
+$$
+
+- Integrate $ 2x $ and $ 1 $ separately:
+  - $ \int_0^\pi 2x \, dx = \left[ x^2 \right]_0^\pi = \pi^2 - 0^2 = \pi^2 $
+  - $ \int_0^\pi 1 \, dx = \left[ x \right]_0^\pi = \pi - 0 = \pi $
+
+Thus, the total integral is:
+$$
+\pi^2 + \pi
+$$
+
+### 2. Integral of $ g(x) = x^2 $:
+
+We need to compute the integral:
+$$
+\int_0^\pi x^2 \, dx
+$$
+
+**Step-by-step solution**:
+- The integral of $ x^2 $ is straightforward:
+$$
+\int_0^\pi x^2 \, dx = \left[ \frac{x^3}{3} \right]_0^\pi = \frac{\pi^3}{3} - 0 = \frac{\pi^3}{3}
+$$
+
+### Final Results:
+- The integral of $ f(x) = 2x + 1 $ over $[0, \pi]$ is:
+$$
+\pi^2 + \pi
+$$
+- The integral of $ g(x) = x^2 $ over $[0, \pi]$ is:
+$$
+\frac{\pi^3}{3}
+$$
+
+### Visualization in GeoGebra:
+
+To visualize these integrals in GeoGebra, follow these steps:
+
+1. **Plot the functions** $ f(x) = 2x + 1 $ and $ g(x) = x^2 $ over the interval $[0, \pi]$.
+2. **Shade the region under each curve** to represent the area corresponding to the integrals.
+3. **Use the integral tool** in GeoGebra to calculate the exact area under each curve:
+   - For $ f(x) = 2x + 1 $, input the integral:
+     $$
+     \int_0^\pi (2x + 1) \, dx
+     $$
+   - For $ g(x) = x^2 $, input the integral:
+     $$
+     \int_0^\pi x^2 \, dx
+     $$
+
+GeoGebra will show the areas under the curves and compute the exact values of the integrals as well.
+
  
 ![Screenshot 2025-01-15 094758](https://github.com/user-attachments/assets/e7327958-a4bf-4df0-806c-b2c3ec884110)
 
