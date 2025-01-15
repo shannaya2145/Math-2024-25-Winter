@@ -127,6 +127,166 @@ and visualize functions in a single Geogebra notebook.
 2. Calculate integrals over the interval $[0, \pi]$ and visualize them in Geogebra:
    - $f(x)=2x+1$
    - $g(x)=x^2$
+     .∫ 
+0
+π
+​
+ (2x+1)dx (first solve this integral)
+     ∫(2x+1)dx=x 
+2
+ +x
+   [x 
+2
+ +x] 
+0
+π
+​
+ =(π 
+2
+ +π)−(0 
+2
+ +0)=π 
+2
+ +π
+  the integral of 
+𝑓
+(
+𝑥
+)
+=
+2
+𝑥
++
+1
+f(x)=2x+1 over 
+[
+0
+,
+𝜋
+]
+[0,π] is:
+
+𝜋
+2
++
+𝜋
+π 
+2
+ +π
+  2. For 
+𝑔
+(
+𝑥
+)
+=
+𝑥
+2
+g(x)=x 
+2
+ :
+The integral of 
+𝑔
+(
+𝑥
+)
+g(x) over the interval 
+[
+0
+,
+𝜋
+]
+[0,π] is:
+
+∫
+0
+𝜋
+𝑥
+2
+ 
+𝑑
+𝑥
+∫ 
+0
+π
+​
+ x 
+2dx
+  ∫x 
+2
+ dx= 
+3
+x 
+3
+ 
+​
+evaluate the integral from 0 to 
+𝜋
+π:
+
+[
+𝑥
+3
+3
+]
+0
+𝜋
+=
+𝜋
+3
+3
+−
+0
+3
+3
+=
+𝜋
+3
+3
+[ 
+3
+x 
+3
+ 
+​
+ ] 
+0
+π
+​
+ = 
+3
+π 
+3
+ 
+​
+ − 
+3
+0 
+3
+ 
+​
+ = 
+3
+π 
+3
+ 
+​
+the integral of 
+𝑔
+(
+𝑥
+)
+=
+𝑥
+2
+g(x)=x 
+2
+  over 
+[
+0
+,
+𝜋
+]
+[0,π] is: x^3/3
 
 3. Calculate the area of the region bounded by the lines:
 $x = 1$, $x = 2$, $y = 0$, and $y = x^2 + 1$. Show it in Geogebra.
