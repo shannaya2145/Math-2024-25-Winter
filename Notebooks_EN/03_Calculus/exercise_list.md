@@ -127,6 +127,7 @@ and visualize functions in a single Geogebra notebook.
 2. Calculate integrals over the interval $[0, \pi]$ and visualize them in Geogebra:
    - $f(x)=2x+1$
    - $g(x)=x^2$
+
      .∫ 
 0
 π
@@ -166,36 +167,12 @@ f(x)=2x+1 over
 ]
 [0,π] is:
 
-𝜋
-2
-+
-𝜋
-π 
-2
- +π
+𝜋^2+𝜋
+  
   2. For 
-𝑔
-(
-𝑥
-)
-=
-𝑥
-2
-g(x)=x 
-2
+𝑔(𝑥)=𝑥^2
  :
-The integral of 
-𝑔
-(
-𝑥
-)
-g(x) over the interval 
-[
-0
-,
-𝜋
-]
-[0,π] is:
+The integral of 𝑔(𝑥) over the interval [0,𝜋] is:
 
 ∫
 0
