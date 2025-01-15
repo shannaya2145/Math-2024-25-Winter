@@ -133,7 +133,9 @@ and visualize functions in a single Geogebra notebook.
 π
 ​
  (2x+1)dx (first solve this integral)
-     ∫(2x+1)dx=x 
+     ∫(2x+1)dx=x
+
+     the antiderivative of 2𝑥+1 is: x^2+x
 
    [x^2 +x] =(𝜋^2+π)−(0^2+0)=π^2+π
  
