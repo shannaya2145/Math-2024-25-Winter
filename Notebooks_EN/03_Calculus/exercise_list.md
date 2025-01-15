@@ -134,44 +134,13 @@ and visualize functions in a single Geogebra notebook.
 ​
  (2x+1)dx (first solve this integral)
      ∫(2x+1)dx=x 
-2
- +x
-   [x 
-2
- +x] 
-0
-π
-​
- =(π 
-2
- +π)−(0 
-2
- +0)=π 
-2
- +π
-  the integral of 
-𝑓
-(
-𝑥
-)
-=
-2
-𝑥
-+
-1
-f(x)=2x+1 over 
-[
-0
-,
-𝜋
-]
-[0,π] is:
 
-𝜋^2+𝜋
+   [x^2 +x] =(𝜋^2+π)−(0^2+0)=π^2+π
+ 
+ . the integral of 
+𝑓(𝑥)=2𝑥+1 over [0,𝜋] is: 𝜋^2+𝜋
   
-  2. For 
-𝑔(𝑥)=𝑥^2
- :
+  2. For 𝑔(𝑥)=𝑥^2 :
 The integral of 𝑔(𝑥) over the interval [0,𝜋] is:
 
 ∫
