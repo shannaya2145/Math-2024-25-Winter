@@ -132,8 +132,8 @@ and visualize functions in a single Geogebra notebook.
 
 We are tasked with calculating the integrals of the following functions over the interval $[0, \pi]$:
 
-1. $ f(x) = 2x + 1 $
-2. $ g(x) = x^2 $
+1. $f(x) = 2x + 1$
+2. $g(x) = x^2$
 
 ### 1. Integral of $ f(x) = 2x + 1 $:
 
