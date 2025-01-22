@@ -207,22 +207,23 @@ GeoGebra will show the areas under the curves and compute the exact values of th
 $x = 1$, $x = 2$, $y = 0$, and $y = x^2 + 1$. Show it in Geogebra.
 
     
-The limits for the area calculation (from x = 1 to x = 2)
+*The limits for the area calculation (from x = 1 to x = 2)
 
 x_lower = 1# The starting x-value
 
 x_upper = 2# The ending x-value
 
- Integration to calculate the area under the curve between x = 1 and x = 2
+ *Integration to calculate the area under the curve between x = 1 and x = 2
 
 $$\int_1^2 x^2+1 \, dx
 $$
+
 first we find the antiderivate of x^2+1
 $$\int (x^2+1) \, dx= x^3/3+x
 $$
+
 *Now, evaluate this from x=1 to x=2:
  
-
  $$
  A= \left[ \frac{x^3}{3}+{x} \right]_1^2
  $$
@@ -236,10 +237,11 @@ $$\frac{2^3}{3}+{2}=\frac{14}{3}
  $$
 
 x=1
+
 $$\frac{1^3}{3}+{1}=\frac{4}{3}
  $$
 
-Now, subtract the values:
+*Now, subtract the values:
 $$\frac{14}{3}-\frac{4}{3}=\frac{10}{3}
 $$
 
