@@ -206,6 +206,33 @@ GeoGebra will show the areas under the curves and compute the exact values of th
 3. Calculate the area of the region bounded by the lines:
 $x = 1$, $x = 2$, $y = 0$, and $y = x^2 + 1$. Show it in Geogebra.
 
+  Define the function we want to calculate the area under: y = x^2 + 1
+def func(x):
+    return x^2 + 1
+
+The limits for the area calculation (from x = 1 to x = 2)
+
+x_lower = 1# The starting x-value
+
+x_upper = 2# The ending x-value
+
+ 3.Integration to calculate the area under the curve between x = 1 and x = 2
+area, _ = quad(func, x_lower, x_upper)
+
+$$
+\int_1^2 x^2+1 \, dx
+$$
+
+
+substitute the values of x1 and x2 on the integral.
+
+The area under the curve from x = 1 to x = 2 is 3.3333 square units.
+
+
+
+
+
+
 4. Calculate the area under the sine curve over the interval $[0, \pi]$, using:
 
 $$P = \int_a^b f(x) \, dx = \int_0^\pi \sin(x) \, dx$$
