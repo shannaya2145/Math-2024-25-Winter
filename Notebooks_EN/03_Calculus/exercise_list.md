@@ -246,6 +246,8 @@ $$\frac{14}{3}-\frac{4}{3}=\frac{10}{3}
 $$
 
 The area under the curve from x = 1 to x = 2 is 3.3333 square units.
+![Screenshot 2025-01-22 012232](https://github.com/user-attachments/assets/3ebe4e81-0f59-4b53-a0c5-d38781506755)
+
 
 
 
