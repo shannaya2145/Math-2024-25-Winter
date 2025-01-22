@@ -216,7 +216,7 @@ x_lower = 1# The starting x-value
 
 x_upper = 2# The ending x-value
 
- 3.Integration to calculate the area under the curve between x = 1 and x = 2
+ 3. Integration to calculate the area under the curve between x = 1 and x = 2
 area, _ = quad(func, x_lower, x_upper)
 
 $$
@@ -224,10 +224,12 @@ $$
 $$
 
 
-substitute the values of x1 and x2 on the integral.
+Substituting the values of x1 and x2 on the integral,
 
 The area under the curve from x = 1 to x = 2 is 3.3333 square units.
 
+
+![Screenshot 2025-01-22 012232](https://github.com/user-attachments/assets/386512d2-07c2-4a8b-b840-50b6ffbbd92c)
 
 
 
