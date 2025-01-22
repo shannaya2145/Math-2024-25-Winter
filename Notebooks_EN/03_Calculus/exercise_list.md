@@ -250,12 +250,13 @@ $$
 
 1. Solve the following first-order ordinary differential equations:
    - $y'(x)= y$
-   - $y'(x) = \frac{1}{2y(x)}$
-      * This is a separable differential equation. We can separate the variables 
+      *This is a separable differential equation. We can separate the variables 
 𝑦
 y and 
 𝑥
 x and then integrate both sides.
+   - $y'(x) = \frac{1}{2y(x)}$
+      
   
 3. Solve the first-order ordinary differential equations using the method of separation of variables for $x$ and $y=y(x)$:
 
