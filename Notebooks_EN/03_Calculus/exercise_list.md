@@ -209,22 +209,11 @@ $x = 1$, $x = 2$, $y = 0$, and $y = x^2 + 1$. Show it in Geogebra.
     
 The limits for the area calculation (from x = 1 to x = 2)
 
- * Define the function we want to calculate the area under: y = x^2 + 1
-def func(x):
-    return x^2 + 1
-
-*The limits for the area calculation (from x = 1 to x = 2)
-
 x_lower = 1# The starting x-value
 
 x_upper = 2# The ending x-value
 
-
  Integration to calculate the area under the curve between x = 1 and x = 2
-
- * Integration to calculate the area under the curve between x = 1 and x = 2
-area, _ = quad(func, x_lower, x_upper)
-
 
 $$
 \int_1^2 x^2+1 \, dx
@@ -232,6 +221,7 @@ $$
 first we find the antiderivate of x^2+1
 $$
 \int (x^2+1) \, dx= x^3/3+x
+
 $$
 *Now, evaluate this from x=1 to x=2:
  
@@ -240,32 +230,24 @@ $$
  $$
  
 
-
 *And then substitute the values of x1 and x2 on the integral:
-
-*Substituting the values of x1 and x2 on the integral,
 
 x=2
 $$
  \frac{2^3}{3}+{2}=\frac{14}{3}
-$$
+ $$
 
 x=1
 $$
  \frac{1^3}{3}+{1}=\frac{4}{3}
-$$
+ $$
 
 *Now, subtract the values:
 $$
  \frac{14}{3}-\frac{4}{3}=\frac{10}{3}
-$$
+ $$
+The area under the curve from x = 1 to x = 2 is 3.3333 square units.
 
-
-*The area under the curve from x = 1 to x = 2 is 3.3333 square units.
-
-
-
-![Screenshot 2025-01-22 012232](https://github.com/user-attachments/assets/386512d2-07c2-4a8b-b840-50b6ffbbd92c)
 
 
 
@@ -286,17 +268,8 @@ $$
 
 1. Solve the following first-order ordinary differential equations:
    - $y'(x)= y$
-<<<<<<< HEAD
    
-=======
-      *This is a separable differential equation. We can separate the variables 
-𝑦
-y and 
-𝑥
-x and then integrate both sides.
->>>>>>> 88514625230b122f21fe8bc4d0e6141d92c17fe8
    - $y'(x) = \frac{1}{2y(x)}$
-      
   
 3. Solve the first-order ordinary differential equations using the method of separation of variables for $x$ and $y=y(x)$:
 
