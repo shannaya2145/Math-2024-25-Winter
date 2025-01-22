@@ -233,7 +233,6 @@ $$
 first we find the antiderivate of x^2+1
 $$
 \int (x^2+1) \, dx= x^3/3+x
-
 $$
 *Now, evaluate this from x=1 to x=2:
  
@@ -261,7 +260,7 @@ $$
 $$
  \frac{14}{3}-\frac{4}{3}=\frac{10}{3}
 $$
-The area under the curve from x = 1 to x = 2 is 3.3333 square units.
+
 
 *The area under the curve from x = 1 to x = 2 is 3.3333 square units.
 
