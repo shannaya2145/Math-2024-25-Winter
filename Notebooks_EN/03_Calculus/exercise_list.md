@@ -242,7 +242,7 @@ $$
  \frac{1^3}{3}+{1}=\frac{4}{3}
  $$
 
-*Now, subtract the values:
+Now, subtract the values:
 $$
  \frac{14}{3}-\frac{4}{3}=\frac{10}{3}
  $$
