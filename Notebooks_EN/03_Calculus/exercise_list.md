@@ -215,7 +215,6 @@ def func(x):
 
 *The limits for the area calculation (from x = 1 to x = 2)
 
-
 x_lower = 1# The starting x-value
 
 x_upper = 2# The ending x-value
