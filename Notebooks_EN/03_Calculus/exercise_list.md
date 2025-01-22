@@ -250,17 +250,17 @@ $$
 x=2
 $$
  \frac{2^3}{3}+{2}=\frac{14}{3}
- $$
+$$
 
 x=1
 $$
  \frac{1^3}{3}+{1}=\frac{4}{3}
- $$
+$$
 
 *Now, subtract the values:
 $$
  \frac{14}{3}-\frac{4}{3}=\frac{10}{3}
- $$
+$$
 The area under the curve from x = 1 to x = 2 is 3.3333 square units.
 
 *The area under the curve from x = 1 to x = 2 is 3.3333 square units.
