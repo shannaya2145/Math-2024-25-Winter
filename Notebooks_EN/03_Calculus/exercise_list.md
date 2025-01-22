@@ -215,13 +215,10 @@ x_upper = 2# The ending x-value
 
  Integration to calculate the area under the curve between x = 1 and x = 2
 
-$$
-\int_1^2 x^2+1 \, dx
+$$\int_1^2 x^2+1 \, dx
 $$
 first we find the antiderivate of x^2+1
-$$
-\int (x^2+1) \, dx= x^3/3+x
-
+$$\int (x^2+1) \, dx= x^3/3+x
 $$
 *Now, evaluate this from x=1 to x=2:
  
